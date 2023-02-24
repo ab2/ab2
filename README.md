@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+😄 Prior to taking over this account, you can check my previous account here [ab2pentest](https://github.com/ab2pentest)
+
 <!--
 **ab2/ab2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
